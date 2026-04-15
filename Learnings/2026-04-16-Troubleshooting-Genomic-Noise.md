@@ -22,5 +22,5 @@ I implemented a **list comprehension** filter to ensure 100% data purity. This l
 *Figure 1: Chart showing the incorrect sequence length caused by hidden noise characters.*
 
 #### **✅ The Solution (1750 bp)**
-![Right Data](PASTE_THE_SECOND_LINK_HERE)
+![Right Data](https://github.com/raushanBioCoder/Daily-Bio-Journal/blob/main/Logs/brca1_right_1750.png.png?raw=true)
 *Figure 2: Cleaned chart showing the correct 1750 bp length after Python filtering.*
