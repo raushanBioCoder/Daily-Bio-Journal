@@ -18,7 +18,7 @@ I implemented a **list comprehension** filter to ensure 100% data purity. This l
 ### 🖼️ Visual Comparison
 
 #### **❌ The Error (1774 bp)**
-![Wrong Data](PASTE_THE_FIRST_LINK_HERE)
+![Wrong Data](https://github.com/raushanBioCoder/Daily-Bio-Journal/blob/main/Logs/brca1_wrong_1774.png.png?raw=true)
 *Figure 1: Chart showing the incorrect sequence length caused by hidden noise characters.*
 
 #### **✅ The Solution (1750 bp)**
