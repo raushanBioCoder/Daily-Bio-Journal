@@ -18,3 +18,12 @@ I implemented a **list comprehension** filter to ensure 100% data purity. This l
 ```python
 # The "Cleaner" Logic
 my_dna = "".join([char for char in raw_dna if char in "ATGC"])
+### 🖼️ Visual Comparison
+
+#### **❌ The Error (1774 bp)**
+![Wrong Data](PASTE_THE_FIRST_LINK_HERE)
+*Figure 1: Chart showing the incorrect sequence length caused by hidden noise characters.*
+
+#### **✅ The Solution (1750 bp)**
+![Right Data](PASTE_THE_SECOND_LINK_HERE)
+*Figure 2: Cleaned chart showing the correct 1750 bp length after Python filtering.* 
